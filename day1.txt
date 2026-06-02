@@ -1,0 +1,61 @@
+Sep used to change the default space between mutiple strings 
+
+print("HELLO" ,"MY ",sep=" = ") 
+
+HELLO = MY  
+
+ 
+
+ 
+
+VARIABLES = Reserved memory  location  
+
+RULES 
+              start with a letter  
+              case sensitive  
+
+              No spaces only _ 
+
+              Etc  
+              eg ,, age=1 
+
+ 
+
+F STRING USED TO PRINT A SENTENCE  
+the variables are then put in a curly bracket  
+
+print(f"i am {nam} and i studied in {university} also i had a cgpa of {4+4}") 
+
+i am Karthik asok and i studied in ktu also i had a cgpa of 8 
+
+ 
+
+cgpa=float(input("enter your cgpa")) 
+
+type(cgpa) 
+
+ 
+
+ 
+
+ 
+
+LIST []  
+
+TUPLE()  
+
+DICTIONARY{}  
+
+ 
+
+ 
+
+ 
+
+To initiazile a varibale  
+
+ITERATIONNN  
+ 
+BREAK  
+CONTINUE 
+PASS 
